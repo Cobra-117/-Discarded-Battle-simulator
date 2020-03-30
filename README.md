@@ -15,8 +15,10 @@
 -Add several types of enemies
 -Add UI
 
-##potential features
+##potential features:
 -improved AI
 -Sound and music
 -Dynamic camera system
 -Control of a figther by the player
+
+Please note that I made all 3d models and textures myself
