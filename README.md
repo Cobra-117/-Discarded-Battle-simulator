@@ -5,8 +5,11 @@
 
 ##current features:
 -Figthers with simple 3d models and animations
+
 -Figthers from one team fight those from the other team
+
 -"AI" to find the closest enemy and attack it instead of choosing a random enemy
+
 -Placement of the fighters on the map with the mouse
 
 ##plan for futures:
@@ -15,7 +18,8 @@
 As this game is a prototype, nearly everything needs to be improved, so once this first protoype will be playable, I will probably restart a new Unity project to a newer and better version of the game. Here's the things I plan to do or improves:
 
 
-New features:
+#New features:
+
 -Implemente physics
 
 -Add several types of enemies
@@ -23,7 +27,7 @@ New features:
 -Add UI
 
 
-Improvements:
+#Improvements:
 
 -Betters 3d models
 
@@ -32,7 +36,8 @@ Improvements:
 -improved AI
 
 
-potential features:
+#potential features:
+
 -Sound and music
 
 -Dynamic camera system
