@@ -14,22 +14,35 @@
 
 As this game is a prototype, nearly everything needs to be improved, so once this first protoype will be playable, I will probably restart a new Unity project to a newer and better version of the game. Here's the things I plan to do or improves:
 
+
 New features:
 -Implemente physics
+
 -Add several types of enemies
+
 -Add UI
 
+
 Improvements:
+
 -Betters 3d models
+
 -Better animations
+
 -improved AI
 
-##potential features:
+
+potential features:
 -Sound and music
+
 -Dynamic camera system
+
 -Control of a figther by the player
+
 -Several maps
+
 -Visual changes like luminosity, shading, better skybox...
+
 -Artillery
 
 Please note that I made all 3d models and textures myself
