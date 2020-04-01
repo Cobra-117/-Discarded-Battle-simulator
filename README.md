@@ -3,6 +3,8 @@
 
 #The developpement of this game is actually in progress
 
+This version is a first prototype of the game but it's playable, so you can test it
+
 ##current features:
 -Figthers with simple 3d models and animations
 
@@ -13,9 +15,7 @@
 -Placement of the fighters on the map with the mouse
 
 ##plan for futures:
--Finish the placement system to make the game playable
-
-As this game is a prototype, nearly everything needs to be improved, so once this first protoype will be playable, I will probably restart a new Unity project to a newer and better version of the game. Here's the things I plan to do or improves:
+As this game is a prototype, nearly everything needs to be improved, so now that this first protoype is playable, I will probably restart a new Unity project to a newer and better version of the game. Here's the things I plan to do or improves:
 
 
 #New features:
