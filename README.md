@@ -1,5 +1,5 @@
 # Battle-simulator
- [Work in progress] This game will be a battle simulator where two teams of fighters will fight each other
+ [Discarded] This game will be a battle simulator where two teams of fighters will fight each other
 
 #The developpement of this game is actually in progress
 
